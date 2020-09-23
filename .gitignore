@@ -1,0 +1,40 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!/src/main/
+!/src/test/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+'.idea'
+'*.mvn'
+app-sending-email-with-attachment/.mvn
+app-sending-email-with-attachment/mvnw
+app-sending-email-with-attachment/mvnw.cmd
+app-sending-email-with-attachment/target
+app-sending-email-with-attachment/web
+app-sending-email-with-attachment/app-sending-email-with-attachment.iml
+node_modules/**.idea
